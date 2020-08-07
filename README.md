@@ -1,0 +1,1 @@
+Singularity recipe files for the BEDOPS open-source command-line toolkit that performs highly efficient and scalable Boolean and other set operations, statistical calculations, archiving, conversion and other management of genomic data of arbitrary scale.
